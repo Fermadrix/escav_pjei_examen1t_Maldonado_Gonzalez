@@ -15673,7 +15673,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: GAME OVER
+  m_Text: "LA ABEJA NO TE PIC\xD3, PORQUE ERES DE METAL. EN REALIDAD TE PIDI\xD3
+    GENTILMENTE QUE EMPEZARAS DE NUEVO."
 --- !u!222 &1178476088
 CanvasRenderer:
   m_ObjectHideFlags: 0
